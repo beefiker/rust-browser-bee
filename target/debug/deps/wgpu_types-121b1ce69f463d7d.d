@@ -1,0 +1,10 @@
+/Users/bee/Documents/Projects/Personal/playground/my_rust_browser/target/debug/deps/libwgpu_types-121b1ce69f463d7d.rmeta: /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/lib.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/assertions.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/counters.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/env.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/instance.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/math.rs
+
+/Users/bee/Documents/Projects/Personal/playground/my_rust_browser/target/debug/deps/wgpu_types-121b1ce69f463d7d.d: /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/lib.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/assertions.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/counters.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/env.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/instance.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/math.rs
+
+/Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/lib.rs:
+/Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/assertions.rs:
+/Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/counters.rs:
+/Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/env.rs:
+/Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/instance.rs:
+/Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wgpu-types-24.0.0/src/math.rs:

@@ -7,9 +7,8 @@ use winit::{
 
 use crate::layout;
 use crate::command::DisplayCommand;
+use crate::config::{ SCREEN_WIDTH, SCREEN_HEIGHT };
 
-const SCREEN_WIDTH: u32 = 1024;
-const SCREEN_HEIGHT: u32 = 768;
 const CLEAR_COLOR: wgpu::Color = wgpu::Color {
     r: 1.0,
     g: 1.0,

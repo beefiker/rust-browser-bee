@@ -1,0 +1,10 @@
+/Users/bee/Documents/Projects/Personal/playground/my_rust_browser/target/debug/deps/libobjc2_encode-8e7b47000dd6e6d1.rmeta: /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/lib.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/encoding.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/encoding_box.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/helper.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/parse.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/static_str.rs
+
+/Users/bee/Documents/Projects/Personal/playground/my_rust_browser/target/debug/deps/objc2_encode-8e7b47000dd6e6d1.d: /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/lib.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/encoding.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/encoding_box.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/helper.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/parse.rs /Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/static_str.rs
+
+/Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/lib.rs:
+/Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/encoding.rs:
+/Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/encoding_box.rs:
+/Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/helper.rs:
+/Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/parse.rs:
+/Users/bee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/static_str.rs:

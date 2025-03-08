@@ -1,5 +1,15 @@
 extern crate bee_engine;
-use bee_engine::{ command, css, css_parser, dom, html_parser, layout, render, style };
+use bee_engine::{
+    command,
+    config::{ SCREEN_WIDTH, SCREEN_HEIGHT },
+    css,
+    css_parser,
+    dom,
+    html_parser,
+    layout,
+    render,
+    style,
+};
 
 use std::env;
 use std::fs::File;
@@ -20,8 +30,8 @@ fn main() {
     style::pretty_print(&style_tree_root, 0);
 
     let mut viewport = layout::Dimensions::default();
-    viewport.content.width = 1024.0;
-    viewport.content.height = 768.0;
+    viewport.content.width = SCREEN_WIDTH as f32;
+    viewport.content.height = SCREEN_HEIGHT as f32;
 
     // Log viewport dimensions
     println!("[Viewport size] {}x{}", viewport.content.width, viewport.content.height);
