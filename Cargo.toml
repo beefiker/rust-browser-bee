@@ -1,0 +1,18 @@
+[package]
+name = "bee_engine"
+version = "0.1.0"
+authors = ["beefiker <beefiker@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+wgpu = "24.0"
+winit = "0.29"
+pollster = "0.3"
+bytemuck = { version = "1.14", features = ["derive"] }
+env_logger = "0.11"
+log = "0.4"
+raw-window-handle = "0.6"
+
+[[bin]]
+name = "main"
+path = "bin/main.rs"
