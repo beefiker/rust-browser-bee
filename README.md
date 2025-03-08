@@ -11,3 +11,9 @@ This is a simple browser engine written in Rust. It is a work in progress and do
 - [ ] Render JavaScript
 - [ ] Render Images
 - [ ] Render Videos
+
+## Run
+
+```bash
+cargo run
+```
